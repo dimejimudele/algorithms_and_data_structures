@@ -20,8 +20,3 @@ class stack:
     def size(self):
         return len(self.items)
 
-
-s = stack()
-s.push(5)
-s.push(10)
-print(s)
